@@ -65,7 +65,8 @@ cd server
 node index.js
 ```
 
-By default, the backend server listens at:  
+By default, the backend server listens at:
+
 `http://localhost:5000`
 
 ### Start the Frontend
@@ -74,7 +75,8 @@ cd client
 npm start
 ```
 
-The frontend runs at:  
+The frontend runs at:
+
 `http://localhost:5173`
 
 ## 📄 License
