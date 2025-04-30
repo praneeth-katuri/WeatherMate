@@ -51,7 +51,7 @@ npm install
 
 Create a `.env` file in the `server` directory with your API keys:
 
-```env
+```bash
 # server/.env
 OPENWEATHER_API_KEY=your_openweather_api_key
 GEODB_API_KEY=your_geodb_api_key
